@@ -1,0 +1,26 @@
+-lazy loading technique
+
+-module creation
+
+    ng g module moduleName
+
+-lazy loaded module creation
+
+    ng g module moduleName --route moduleName --module rootmoduleName
+
+    indian-- 2
+    arabian-- 1
+    chinese-- 3
+
+    access data from component path
+    -------------------------------
+
+    ActivatedRoute - class
+    params         - method 
+
+
+    BehaviourSubject in angular
+    ---------------------------
+
+    rxjs
+    

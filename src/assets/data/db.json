@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Masala Dosa",
+      "categoryId": 2,
+      "description": "Made from a batter of soaked rice and lentils that is baked into a thin pancake ",
+      "price": 90,
+      "is_available": true,
+      "productImg": "https://i.postimg.cc/GhW7PggN/pexels-saveurs-secretes-5560763.jpg",
+      "rating": 4.7,
+      "review": 250,
+      "vendor_Name": "Hotel paragon",
+      "warranty": 1
+    },
+    {
+      "id": 2,
+      "productName": "Palak Paneer",
+      "categoryId": 2,
+      "description": "made with paneer cheese in a rich, thick sauce consisting of puréed spinach mixed with tomatoes, garam masala, garlic, and numerous spices.",
+      "price": 135,
+      "is_available": true,
+      "productImg": "https://i.postimg.cc/Y0k2mxKm/palaak.jpg",
+      "rating": 4.3,
+      "review": 45,
+      "vendor_name": "Malabar Plaza",
+      "warranty": 2
+    },
+    {
+      "id": 4,
+      "productName": "Hyderabadi Biriyani",
+      "categoryId": 2,
+      "description": "Hyderabadi biryani is a South Indian dish consisting of basmati rice, goat, mutton, or chicken meat, lemon, yogurt, onions, and saffron",
+      "price": "310",
+      "is_available": true,
+      "productImg": "https://i.postimg.cc/zXhQb1D6/hyderabad-chick-b.jpg",
+      "rating": 4.5,
+      "review": 450,
+      "vendor_name": "Hotel Faizee",
+      "warranty": 1
+    },
+    {
+      "id": 5,
+      "productName": "Tandoori Chicken",
+      "categoryId": 2,
+      "description": "The dish consists of chicken meat that is marinated in yogurt, seasoned with tandoori masala, nutmeg, and cumin, then placed on skewers.",
+      "price": 400,
+      "is_available": "true",
+      "productImg": "https://i.postimg.cc/3RLsBjzq/Tandoori-Chicken.jpg",
+      "rating": 4.8,
+      "review": 530,
+      "vendor_name": "Hotel Chilleese",
+      "warranty": 1
+    },
+    {
+      "id": 6,
+      "productName": "Porotta",
+      "categoryId": 2,
+      "description": "Porotta is a flatbread made from Maida or Atta, alternatively known as flaky ribbon pancake",
+      "price": 20,
+      "is_available": true,
+      "productImg": "https://i.postimg.cc/sfWXXvSr/porotta.jpg",
+      "rating": 4.8,
+      "review": 430,
+      "vendor_name": "Hotel Chilliees",
+      "warranty": 1
+    },
+    {
+      "id": 7,
+      "productName": "Chicken Tikka",
+      "categoryId": 2,
+      "description": "It is traditionally small pieces of boneless chicken baked using skewers on a brazier called angeethi or over charcoal after marinating in Indian spices and dahi essentially a boneless version of tandoori chicken",
+      "price": 110,
+      "is_available": true,
+      "productImg": "https://i.postimg.cc/rmQ9RQ7D/chicken-tikka.jpg",
+      "rating": 4.8,
+      "review": 530,
+      "vendor_name": "Malabar Plaza",
+      "warranty": 1
+    },
+    {
+      "id": 8,
+      "productName": "Sadhya",
+      "categoryId": 2,
+      "description": "The main dish is plain boiled rice, served along with other curries, Koottaan which include curries like parippu, sambar, rasam, pulisseri and others like kaalan, avial, thoran, olan,etc.. ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "https://i.postimg.cc/7hqtz5BL/sadhya.jpg",
+      "rating": 4.8,
+      "review": 530,
+      "vendor_name": "Hotel Annapoorna",
+      "warranty": 1
+    },
+    {
+      "id": "9",
+      "productName": "Laptop",
+      "categoryId": 1,
+      "description": "Latest Core Processor",
+      "price": "45000",
+      "is_available": "yes",
+      "productImg": "https://i.postimg.cc/XJwTfvxz/l1.jpg",
+      "rating": "4",
+      "review": "70",
+      "vendor_name": "Lenovo",
+      "warranty": 2
+    },
+    {
+      "id": "10",
+      "productName": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "categoryId": 3,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "price": "500",
+      "is_available": "yes",
+      "productImg": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": "3.5",
+      "review": "200"
+    }
+  ]
+}
